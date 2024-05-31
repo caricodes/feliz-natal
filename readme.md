@@ -10,6 +10,6 @@
     - CSS
     - JAVASCRIPT
 
-# Créditos
+## Créditos
 
 - [IuriCodes](https://github.com/iuricode)
